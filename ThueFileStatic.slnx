@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../../AppLocDuLieuThue/AppLocDuLieuThue/AppLocDuLieuThue.csproj" />
+  <Project Path="../HtmlDataValue/HtmlDataValue/HtmlDataValue.csproj" />
   <Project Path="ThueFileStatic/ThueFileStatic.csproj" />
 </Solution>
